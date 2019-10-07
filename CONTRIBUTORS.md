@@ -77,4 +77,10 @@
 - Github: https://github.com/SkyC0der
 ***
 
+### Vikrant Bhat
+- Photo: https://github.com/account
+- Location: Delhi, India
+- Bio: 📱 Frontend Developer . 💻 Open Source Contributor . 🎤 Speaker . ReactJS Developer .
+- Github: https://github.com/bhatvikrant
+***
 
